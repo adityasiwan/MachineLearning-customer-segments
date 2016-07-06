@@ -1,4 +1,4 @@
-# Project 3: Unsupervised Learning
+# Unsupervised Learning
 ## Creating Customer Segments
 
 ### Install
@@ -12,11 +12,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
-
-### Code
-
-Template code is provided in the notebook `customer_segments.ipynb` notebook file. Additional supporting code can be found in `renders.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+You may install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
 ### Run
 
